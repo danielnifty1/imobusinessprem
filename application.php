@@ -42,18 +42,11 @@
 
 </head>
 
+
 <body style="background-image: url(imsu/pback.jpeg);background-size: cover;";>
 
 
-
-<?php require "header.php" ?>
-
-
-
-
-
-
-
+<?php require "header.php" ?> 
 
 <div class="contact py-sm-5 py-4" id="contact" style="color:white">
 	<div class="container py-lg-3">
@@ -89,6 +82,7 @@
 								<div class="col-md-6">
 									<input class="form-control" type="text" placeholder="Enter Your First Name" name="name" required="" id="fname" >
 								</div>
+								<br>
 								<div class="col-md-6 mt-md-0 mt-4">
 									<input class="form-control" type="text" placeholder="Enter Your Last Name" name="name" required="" id="lname">
 								</div>
@@ -99,6 +93,7 @@
 								<div class="col-md-6">
 									<input class="form-control" type="text" placeholder="Enter Mobile Number" name="mobile" required="" id="mobile">
 								</div>
+								<br>
 								<div class="col-md-6 mt-md-0 mt-4">
 									<input class="form-control" type="email" placeholder="Enter Email Id" name="email" required="" id="email">
 									<span id="rst2"></span>
@@ -107,10 +102,12 @@
 						</div>
 
 							<div class="form-group">
+
 							<div class="row">
 								<div class="col-md-6">
 									<input class="form-control" type="date" placeholder="Enter Date of Birth" name="dob" required="" id="dob">
 								</div>
+								<br>
 								<div class="col-md-6 mt-md-0 mt-4">
 									<select id="gender" class="form-control" style="height: 55px;">
 										
@@ -127,7 +124,7 @@
 							<div class="row">
 								<div class="col-md-6">
 									<input class="form-control" type="text" placeholder="Enter NIN" name="" required="" id="nin">
-								</div>
+								</div><br>
 								<div class="col-md-6 mt-md-0 mt-4">
 									<select id="national" class="form-control" style="height: 55px;">
 										
@@ -156,7 +153,7 @@
 							<div class="row">
 								<div class="col-md-6">
 									<input class="form-control" type="text" placeholder="Enter State" name="state" required="" id="state">
-								</div>
+								</div><br>
 								<div class="col-md-6 mt-md-0 mt-4">
 									<input class="form-control" type="text" placeholder="Enter City" name="city" required="" id="city">
 								</div>
@@ -201,7 +198,8 @@
 <!--  -->
 <!-- //footer -->
 <div id="rst"></div>
-<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/vendor/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="js/vendor/bootstrap.min.js"></script>
   <script type="text/javascript">
 
   $(document).ready(function(){

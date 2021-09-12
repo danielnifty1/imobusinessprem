@@ -1,8 +1,9 @@
 <center>
-<h1><a href=""><img src="imo/imologo.png"  style="width:100px; ;">
+<h1><a href=""><img src="imo/imbp.png"  style="width:250px; ;">
 </a></h1>
-<h4 style="color:green; font-weight: bold;">IMO STATE BUSINESS PREMISES </h4></center>
-
+<h4 style="color:green; font-weight: bold;"><h4></center>
+<br>
+<br>
  <nav class="navbar navbar-inverse w3-card-4" style="position: sticky;;top: 0px;z-index: 1111111">
   <div class="container-fluid">
     <div class="navbar-header">

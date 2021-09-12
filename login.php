@@ -156,6 +156,7 @@ if(isset($_GET['verify'])){
 <!-- footer -->
 <!--  -->
 <!-- //footer -->
-
+<script type="text/javascript" src="js/vendor/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="js/vendor/bootstrap.min.js"></script>
 </body>
 </html>

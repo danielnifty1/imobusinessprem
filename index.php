@@ -15,7 +15,7 @@
     <meta name="keywords" content="Portfolio, Agency, Onepage, Html, Business, Blog, Parallax" />
 
     <!--====== TITLE TAG ======-->
-    <title>Carries HTML5 Business Template</title>
+    <title>IMO BUSINESS PREMISES</title>
 
     <!--====== FAVICON ICON =======-->
     <link rel="shortcut icon" type="image/ico" href="img/favicon.png" />
@@ -68,9 +68,9 @@
                 <nav class="navbar">
                     <div class="container">
                         <div class="navbar-header">
-                            <a href="#home" class="navbar-brand"><img src="imo/imologo.png" style="width: 80px; height: 70px" alt="logo"><b style="color:green">IMO STATE BUSINESS</b></a>
+                            <a href="#home" class="navbar-brand"><img src="imo/imbp.png" style="width: 250px; height: 70px" alt="logo"><b style="color:green"></b></a>
                         </div>
-                        <div class="search-and-language-bar pull-right">
+                        <div class="pull-right">
                             <ul>
                                 <li><a href="application" target="_blank" class="btn btn-sm btn-success">Portal</a></li>
                               
